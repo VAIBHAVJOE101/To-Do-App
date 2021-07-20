@@ -1,0 +1,17 @@
+{
+  "name": "csoc-2021-task-2-web",
+  "version": "1.0.0",
+  "description": "task 2 web",
+  "main": "init.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vite": "^2.3.7"
+  }
+}
