@@ -13,14 +13,11 @@ Follow the following steps to setup this project.
 First of all, click on the top-right corner of this repository to fork it.
 
 ### Create a local clone of your fork
-Then, clone your forked repository using this command:
-```
-git clone https://github.com/YOUR-USERNAME/csoc-2021-task-2-web.git
-```
+Then, clone your forked repository :
 
 Change your current directory to the repo's root.
 ```
-cd csoc-2021-task-2-web
+cd To-Do-Application
 ```
 
 ### Run the server
