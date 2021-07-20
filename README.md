@@ -43,6 +43,9 @@ npm run build
 
 This will create a `dist` folder which can be served now
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10c7980a-fa55-46ae-9a5d-07ec36ec9b2b/deploy-status)](https://app.netlify.com/sites/peaceful-wright-0c70c6/deploys)
+
 ## Todo Application
 
 There are three pages in this site.
